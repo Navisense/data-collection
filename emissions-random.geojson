@@ -5749,8 +5749,8 @@
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "plxgmnkb",
-          "mag": 9.413382405161444,
+          "id": "dhiymsnq",
+          "mag": 1.0304768580683221,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5758,15 +5758,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.306485212639215, 53.374215861660829]
+        "coordinates": [9.167146672497269, 53.852423932245664]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "imylkksm",
-          "mag": 3.8804606766400918,
+          "id": "ducbrsbz",
+          "mag": 3.686529038364469,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5774,15 +5774,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.418559058388368, 53.381707478154169]
+        "coordinates": [9.549865740325064, 53.6306200528985]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kzrujdly",
-          "mag": 7.148362614529585,
+          "id": "xjawnyni",
+          "mag": 8.561543956919763,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5790,15 +5790,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.346879073857302, 53.40544200247632]
+        "coordinates": [9.179358875556737, 53.803274211595479]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hmzyabyi",
-          "mag": 5.412474035955141,
+          "id": "uveuxnbv",
+          "mag": 1.1910203695232657,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5806,15 +5806,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.349338711124005, 53.419625241381951]
+        "coordinates": [9.627902083182143, 53.689627714434501]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "zlxsaxrs",
-          "mag": 6.823067035616637,
+          "id": "aijucetu",
+          "mag": 4.507612382694115,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5822,15 +5822,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.232570896757609, 53.425378425534532]
+        "coordinates": [9.605677603706445, 53.646350030381782]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qmwcnnkp",
-          "mag": 9.94055992010331,
+          "id": "khrsqgum",
+          "mag": 5.027389897044671,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5838,15 +5838,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.458713251906744, 53.349782351020011]
+        "coordinates": [9.332091837680993, 53.814389701008302]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hemdlwiv",
-          "mag": 8.126435989752961,
+          "id": "ukvmizap",
+          "mag": 4.827364366940512,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5854,15 +5854,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.242170326644471, 53.400222945408096]
+        "coordinates": [9.699420115474457, 53.557824406010269]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "idynynzf",
-          "mag": 2.32824886837965,
+          "id": "rvbqobzc",
+          "mag": 2.809574911329414,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5870,15 +5870,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.32758713178626, 53.406118656195183]
+        "coordinates": [9.50665621581177, 53.712180868187183]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wafbmkqy",
-          "mag": 1.3006620118289614,
+          "id": "pbxuefuv",
+          "mag": 3.035715269524064,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5886,15 +5886,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.388697554555092, 53.404890659950851]
+        "coordinates": [9.627365659867253, 53.678233906182861]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "nlqcjngu",
-          "mag": 1.3059076245099799,
+          "id": "nzmxcvas",
+          "mag": 4.636654036182372,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5902,15 +5902,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.49585447349795, 53.397737278367728]
+        "coordinates": [9.211190816709475, 53.83239675445391]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "bbqtmdgx",
-          "mag": 4.459612887574652,
+          "id": "xasmkkch",
+          "mag": 5.457380428036327,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5918,15 +5918,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.426565705295038, 53.393568305753483]
+        "coordinates": [9.193430701740017, 53.861644305358766]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uaooqlaj",
-          "mag": 7.144485998068122,
+          "id": "oaagcedx",
+          "mag": 4.789672202341759,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5934,15 +5934,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.063250079669272, 53.445121391610854]
+        "coordinates": [9.285369166405921, 53.897146726688653]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uhnqdmlx",
-          "mag": 2.568343780519553,
+          "id": "gnzpjbhh",
+          "mag": 9.299786149453297,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5950,15 +5950,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.353465459218764, 53.388556879660058]
+        "coordinates": [9.60329232940899, 53.629858549725959]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ieajynja",
-          "mag": 4.683520830618634,
+          "id": "jkshyyns",
+          "mag": 7.2860535490831015,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5966,15 +5966,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.187987885802789, 53.441140685381299]
+        "coordinates": [9.452210480906372, 53.739997003137937]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "rgpyvlru",
-          "mag": 3.4641321689953877,
+          "id": "gxzloddj",
+          "mag": 0.14618132290427965,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5982,15 +5982,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.340635492828767, 53.429176275423828]
+        "coordinates": [9.531869302101722, 53.62241736021705]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "lpltxcgc",
-          "mag": 5.173843104829457,
+          "id": "xjklpoyf",
+          "mag": 8.205774675044067,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -5998,15 +5998,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.170602208148514, 53.437475650887869]
+        "coordinates": [9.447460985040307, 53.668791880348458]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "vsegpnpa",
-          "mag": 0.9745741437500599,
+          "id": "hvadmums",
+          "mag": 0.5938799231250214,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6014,15 +6014,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.493266835385413, 53.393222171901229]
+        "coordinates": [9.241710482684754, 53.793760625949588]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "vaxveqmq",
-          "mag": 9.706557899627864,
+          "id": "jvhcaoit",
+          "mag": 0.6672178105284909,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6030,15 +6030,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.104795945668382, 53.404495826991031]
+        "coordinates": [9.560305458256803, 53.766658864888079]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "byxpffhb",
-          "mag": 3.1513977521321324,
+          "id": "cykfenxu",
+          "mag": 8.366971856542268,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6046,15 +6046,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.56374609071044, 53.399911299338051]
+        "coordinates": [9.673410882085093, 53.624864415126609]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ksfcqjqu",
-          "mag": 3.038174058692028,
+          "id": "pvmfopag",
+          "mag": 4.345518335335958,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6062,15 +6062,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.557043705857978, 53.392258993830318]
+        "coordinates": [9.43022699309665, 53.695570738181999]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "swhsjbel",
-          "mag": 2.245156193481174,
+          "id": "jndlptzy",
+          "mag": 6.08691603121803,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6078,15 +6078,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.46859937544486, 53.413645736732441]
+        "coordinates": [9.711296852259856, 53.542982736467671]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qgxoixwr",
-          "mag": 5.588833160802721,
+          "id": "cszblfrz",
+          "mag": 3.5955885510389884,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6094,15 +6094,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.379127694673899, 53.413249827033901]
+        "coordinates": [9.183246838270772, 53.878662448131706]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wgwknrtg",
-          "mag": 4.923796421229235,
+          "id": "cvekvwrm",
+          "mag": 8.034312859755094,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6110,15 +6110,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.355262397215634, 53.391926198034085]
+        "coordinates": [9.342958724108261, 53.749301129899614]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wkebfzcd",
-          "mag": 5.8683703178894175,
+          "id": "rlinhtxj",
+          "mag": 1.4660373593924425,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6126,15 +6126,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.167458536020288, 53.386560754695488]
+        "coordinates": [9.328807838861081, 53.721716115412903]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "mtqecdgw",
-          "mag": 2.3388532735710257,
+          "id": "uuiyocnt",
+          "mag": 7.728187078424354,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6142,15 +6142,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.255050323812084, 53.380917263645095]
+        "coordinates": [9.378091870333666, 53.897248651747496]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "veewdpku",
-          "mag": 9.520873711655522,
+          "id": "nqtbfitf",
+          "mag": 2.8925912836629095,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6158,15 +6158,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.228163626541065, 53.449207118306738]
+        "coordinates": [9.394131053825767, 53.868367925374294]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "sktwhzbl",
-          "mag": 5.759088070860625,
+          "id": "azpemvel",
+          "mag": 0.9393512268617343,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6174,15 +6174,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.241182649497137, 53.400092023786009]
+        "coordinates": [9.31172181796323, 53.836204465402659]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wvdbnbwp",
-          "mag": 1.4401668512336019,
+          "id": "efzhsuol",
+          "mag": 5.865412134210932,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6190,15 +6190,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.491847130032115, 53.359475080644444]
+        "coordinates": [9.518773966783455, 53.696626717209462]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hzviqaes",
-          "mag": 4.8946259014133435,
+          "id": "qzghsuge",
+          "mag": 7.375950930594392,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6206,15 +6206,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.422995207525826, 53.356110874056398]
+        "coordinates": [9.23430214656123, 53.810126839779542]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "upbyslth",
-          "mag": 3.1835166167857976,
+          "id": "rcvnactk",
+          "mag": 4.911083079764732,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6222,15 +6222,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.132971000474415, 53.395523678799051]
+        "coordinates": [9.413672074735635, 53.847944559245505]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "cmtgbmin",
-          "mag": 7.021029366266753,
+          "id": "wqvqqrqm",
+          "mag": 0.07915936450871186,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6238,15 +6238,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.467686427350685, 53.421651409678361]
+        "coordinates": [9.4737387547779, 53.854262852228509]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gepwfpur",
-          "mag": 4.76886654495584,
+          "id": "ckjdxdnh",
+          "mag": 5.107846219191456,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6254,15 +6254,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.174628614568363, 53.445272805885374]
+        "coordinates": [9.610356480673932, 53.570714961597567]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "prmuhxyc",
-          "mag": 4.161396149057844,
+          "id": "ygrppgwf",
+          "mag": 2.8433170388957727,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6270,15 +6270,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.221258212468294, 53.438801331101686]
+        "coordinates": [9.206384632739525, 53.84335014107473]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kjdjppza",
-          "mag": 2.8383750951411466,
+          "id": "dqpebryj",
+          "mag": 9.887820472548423,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6286,15 +6286,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.301405413473187, 53.373392340414398]
+        "coordinates": [9.62058218566092, 53.61327785765473]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "jntgayxf",
-          "mag": 9.520118488388308,
+          "id": "crvsauxt",
+          "mag": 1.0576563727308486,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6302,15 +6302,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.436358438005122, 53.381080745592833]
+        "coordinates": [9.455211446907262, 53.774750409929332]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "tbyoiopi",
-          "mag": 0.15753205868685227,
+          "id": "rgfbgihx",
+          "mag": 6.180098667703673,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6318,15 +6318,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.251719287182542, 53.436291675433353]
+        "coordinates": [9.578419289860779, 53.714016063000862]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "vfeuajvk",
-          "mag": 6.86307241204949,
+          "id": "nxyiktuq",
+          "mag": 3.120658573487487,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6334,15 +6334,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.30473330261067, 53.434991778194224]
+        "coordinates": [9.249465506348953, 53.798697212334289]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ihsjafql",
-          "mag": 3.573408739867614,
+          "id": "ywbdvjrd",
+          "mag": 5.971032585358074,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6350,15 +6350,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.447694064851524, 53.373487292150948]
+        "coordinates": [9.396845023047334, 53.925288077026863]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "fyijzmnw",
-          "mag": 3.5608681867946848,
+          "id": "gqrolsfk",
+          "mag": 7.695772132186859,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6366,15 +6366,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.114718480438228, 53.424249534287917]
+        "coordinates": [9.466744240583425, 53.866899585430716]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "zcblwncb",
-          "mag": 2.4107037745346793,
+          "id": "isflkoyy",
+          "mag": 7.415989278377971,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6382,15 +6382,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.187671094635096, 53.38917879982268]
+        "coordinates": [9.35204737011053, 53.81837968151607]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "cntbgfqx",
-          "mag": 8.072617607165709,
+          "id": "ymxeknhk",
+          "mag": 7.6746267812559,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6398,15 +6398,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.446992865385376, 53.371196486452945]
+        "coordinates": [9.500416001707386, 53.730235970858729]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ipihshuz",
-          "mag": 0.20539617629942608,
+          "id": "faivmsnh",
+          "mag": 9.133359764962206,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6414,15 +6414,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.506869467213393, 53.358999022762163]
+        "coordinates": [9.664751429282944, 53.636665431015331]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uixvnbdu",
-          "mag": 4.630818209716788,
+          "id": "oiapedfi",
+          "mag": 8.217686097230962,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6430,15 +6430,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.337164527455295, 53.420739419985772]
+        "coordinates": [9.470493503287956, 53.800544631046229]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "sbnckmqq",
-          "mag": 8.370546194471192,
+          "id": "tzskoslf",
+          "mag": 7.402867141778536,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6446,15 +6446,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.384186968550114, 53.375551659736779]
+        "coordinates": [9.328403044732328, 53.882686881408233]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ucsvxlgd",
-          "mag": 5.656566105498562,
+          "id": "ycpouwrk",
+          "mag": 8.32273341682762,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6462,15 +6462,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.470732116191559, 53.417208328891284]
+        "coordinates": [9.73167130408744, 53.562279229864401]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wmmrimcv",
-          "mag": 2.0594092225327323,
+          "id": "ipyxqodw",
+          "mag": 2.0183423312836926,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6478,15 +6478,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.171208901201146, 53.42505008351921]
+        "coordinates": [9.459229238781935, 53.795985789021266]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yvkfmttn",
-          "mag": 4.237991322500117,
+          "id": "uavkoidd",
+          "mag": 9.301604787381219,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6494,15 +6494,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.422731035490726, 53.375423092820796]
+        "coordinates": [9.601521702862943, 53.689277123731436]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hwilvieg",
-          "mag": 5.18633624325998,
+          "id": "jjkezgve",
+          "mag": 5.356947481441136,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6510,15 +6510,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.530096270617852, 53.393085359067875]
+        "coordinates": [9.193976708643552, 53.869497878383712]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "twypfxzu",
-          "mag": 4.876749809048851,
+          "id": "yfmybitw",
+          "mag": 6.3035448074606535,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6526,15 +6526,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.406449102030431, 53.421998768616191]
+        "coordinates": [9.331922171981152, 53.801845607601699]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yhdzyltv",
-          "mag": 5.700763563684478,
+          "id": "lqtocbyd",
+          "mag": 0.6941028406080973,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6542,15 +6542,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.432283610864493, 53.41501698197208]
+        "coordinates": [9.455849928634093, 53.71080319005852]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ircomasw",
-          "mag": 5.648066121632109,
+          "id": "gxldqdtd",
+          "mag": 0.3676003957283691,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6558,15 +6558,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.256776327124134, 53.395960056300069]
+        "coordinates": [9.267679564012971, 53.871303538100399]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kjazijmn",
-          "mag": 0.550228416613886,
+          "id": "lpobtefr",
+          "mag": 2.778161372275089,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6574,15 +6574,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.248179135005714, 53.436389859035543]
+        "coordinates": [9.42932915115539, 53.827707680327791]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ytalmikg",
-          "mag": 7.969396041663062,
+          "id": "nniivlhq",
+          "mag": 0.17559437864630545,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6590,15 +6590,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.409511726007041, 53.37180513690403]
+        "coordinates": [9.641395640684715, 53.618519159557721]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "inulqtod",
-          "mag": 1.2713951986047167,
+          "id": "azhwyqpu",
+          "mag": 7.3908553559141925,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6606,15 +6606,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.165784248995736, 53.410431029942494]
+        "coordinates": [9.398923973508394, 53.82364972370474]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "pyswqpme",
-          "mag": 1.083554663079317,
+          "id": "yzbrkkot",
+          "mag": 8.386486597680639,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6622,15 +6622,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.439501954864237, 53.387207974737215]
+        "coordinates": [9.465722357549462, 53.720396031443393]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kyarmjli",
-          "mag": 3.17034270742358,
+          "id": "mdwlxdxh",
+          "mag": 1.7886405431199015,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6638,15 +6638,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.249498808892042, 53.382363324233175]
+        "coordinates": [9.382657099980815, 53.891339972057324]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gclgghzd",
-          "mag": 3.678717079726498,
+          "id": "qwdquxux",
+          "mag": 7.50076426532811,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6654,15 +6654,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.124397349408035, 53.402040972584985]
+        "coordinates": [9.49869403699781, 53.661217691927909]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "zjwitqes",
-          "mag": 0.0817247013198874,
+          "id": "aposskic",
+          "mag": 3.620995043823779,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6670,15 +6670,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.346362863144876, 53.391317109042447]
+        "coordinates": [9.457234512628604, 53.724123162607214]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "mgmisdww",
-          "mag": 8.394433044119623,
+          "id": "fcnrmgpx",
+          "mag": 1.1210603659992158,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6686,15 +6686,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.50922052741654, 53.363783461814478]
+        "coordinates": [9.352099003211707, 53.73063497662347]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wkbmvadd",
-          "mag": 1.0446868460985437,
+          "id": "jzngexvm",
+          "mag": 2.1744321665110764,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6702,15 +6702,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.089881454162592, 53.429039034271852]
+        "coordinates": [9.328204597140385, 53.869084736772912]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qtdjjexh",
-          "mag": 5.155422650919177,
+          "id": "cvdrgduw",
+          "mag": 0.3581639679394577,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6718,15 +6718,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.512569944282575, 53.430677856805623]
+        "coordinates": [9.733871353976477, 53.547843388627037]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "cmxphqsb",
-          "mag": 8.94590927015756,
+          "id": "ldbsswtu",
+          "mag": 1.9109957513906028,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6734,15 +6734,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.318245693174415, 53.438926175656974]
+        "coordinates": [9.548025573057437, 53.658034527175964]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kgrlrhbq",
-          "mag": 9.401463800815833,
+          "id": "ogmgyltm",
+          "mag": 0.8830367005210815,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6750,15 +6750,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.366844657477746, 53.436535648276958]
+        "coordinates": [9.548787576391705, 53.621503140073941]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "reanewhz",
-          "mag": 5.11230973611227,
+          "id": "tlipavty",
+          "mag": 1.5185231307385272,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6766,15 +6766,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.107224841022221, 53.425966308502019]
+        "coordinates": [9.36075520283811, 53.772060855860524]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "smjrkaip",
-          "mag": 9.858767297641556,
+          "id": "jjjtgkgu",
+          "mag": 1.4687876532710042,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6782,15 +6782,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.226924148824347, 53.448506960929919]
+        "coordinates": [9.479366334753029, 53.68606835856545]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "fepisnoy",
-          "mag": 5.509016878894517,
+          "id": "lvruebbb",
+          "mag": 2.7226814328241113,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6798,15 +6798,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.170094210551355, 53.391038752379124]
+        "coordinates": [9.331950176174761, 53.710917966102528]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hvbbknwu",
-          "mag": 5.464790012265413,
+          "id": "abarsrru",
+          "mag": 6.496199915905828,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6814,15 +6814,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.360290872800624, 53.398877567315715]
+        "coordinates": [9.482895787107219, 53.777427733787263]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "eyuxlydm",
-          "mag": 0.9761954146184337,
+          "id": "hqrpoplc",
+          "mag": 9.194090595176927,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6830,15 +6830,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.212581766659952, 53.408429654473537]
+        "coordinates": [9.346595811960082, 53.824562527071144]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "jtajaktm",
-          "mag": 4.478149887939681,
+          "id": "pzxneshi",
+          "mag": 2.9681758811641124,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6846,15 +6846,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.397207068785388, 53.383257144935918]
+        "coordinates": [9.426774423602085, 53.874237305753581]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gscvjmrx",
-          "mag": 3.0872252936733693,
+          "id": "pmxhqthv",
+          "mag": 6.0309908943350345,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6862,15 +6862,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.589988649431877, 53.424147712244419]
+        "coordinates": [9.738752822298027, 53.55493149711431]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ruxgykxd",
-          "mag": 1.1833684692670754,
+          "id": "bplwohsd",
+          "mag": 9.228872633600053,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6878,15 +6878,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.210830187160028, 53.400157489677284]
+        "coordinates": [9.480651793486155, 53.832887764006884]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "jiwexywr",
-          "mag": 5.084995538638051,
+          "id": "ocvzoasn",
+          "mag": 7.146769180410707,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6894,15 +6894,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.392519640414399, 53.400598418357667]
+        "coordinates": [9.439593634769412, 53.848050206522842]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ozvddgya",
-          "mag": 8.692593029138168,
+          "id": "hcuaxbak",
+          "mag": 0.21109279507295353,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6910,15 +6910,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.448092209776307, 53.389317983755021]
+        "coordinates": [9.46269643870335, 53.676295278897769]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gdtnsaes",
-          "mag": 7.785451032346042,
+          "id": "wylsduoz",
+          "mag": 0.7741380886153437,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6926,15 +6926,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.31196420891315, 53.372553259781363]
+        "coordinates": [9.2528154656206, 53.862485440953741]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "rlloicgj",
-          "mag": 5.485054841371822,
+          "id": "ualcefav",
+          "mag": 8.772736987589568,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6942,15 +6942,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.305957523081956, 53.436213853452387]
+        "coordinates": [9.351481931474636, 53.76743206522481]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "divezzjt",
-          "mag": 7.71199486499329,
+          "id": "bupebnki",
+          "mag": 6.127853926543735,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6958,15 +6958,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.093018031362419, 53.40478102695748]
+        "coordinates": [9.435301087099218, 53.694070274535157]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hxqkzxck",
-          "mag": 6.8361891427715085,
+          "id": "wswcmcxm",
+          "mag": 2.1496706503061915,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6974,15 +6974,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.26082043902562, 53.422966206782995]
+        "coordinates": [9.490140942038991, 53.769174129124487]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "pijitfvl",
-          "mag": 1.0679789675078555,
+          "id": "oeerrbos",
+          "mag": 8.419721313170594,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -6990,15 +6990,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.407035620096273, 53.362369211446115]
+        "coordinates": [9.477916016999608, 53.847512830394592]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "tnthdfne",
-          "mag": 0.754141796212664,
+          "id": "vujptmvb",
+          "mag": 8.441963619293197,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7006,15 +7006,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.201645207419517, 53.435389888894925]
+        "coordinates": [9.680263733983004, 53.558337547839287]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "cucyypth",
-          "mag": 1.2368619546040915,
+          "id": "hwbadolq",
+          "mag": 1.8984491136300063,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7022,15 +7022,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.358433360524209, 53.438628750325321]
+        "coordinates": [9.408870246191359, 53.682541960054735]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "bmrhjbyf",
-          "mag": 8.939081094782154,
+          "id": "wvncbxjj",
+          "mag": 6.482486407917957,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7038,15 +7038,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.469292233952361, 53.376432637644065]
+        "coordinates": [9.384843629119702, 53.869669968243599]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qcebwsyr",
-          "mag": 5.670239775184828,
+          "id": "biyfngtz",
+          "mag": 3.6825738861724746,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7054,15 +7054,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.093602125503288, 53.437447089729652]
+        "coordinates": [9.285969718626513, 53.751403046422126]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "frhvqahh",
-          "mag": 8.173359529563125,
+          "id": "krxwuosf",
+          "mag": 9.940646081666323,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7070,15 +7070,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.485162879236162, 53.394513272620891]
+        "coordinates": [9.347713395885071, 53.927530263665844]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "sgpbuuaz",
-          "mag": 7.045967523915996,
+          "id": "knihalsf",
+          "mag": 6.896442223489398,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7086,15 +7086,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.341221464952678, 53.438711722921411]
+        "coordinates": [9.185463577743295, 53.81780904655588]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hwrlaxvb",
-          "mag": 2.1255348046438516,
+          "id": "yitsnohn",
+          "mag": 6.044882451696544,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7102,15 +7102,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.188988547941298, 53.396381827943138]
+        "coordinates": [9.316240936169017, 53.719099469397911]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ldthfbws",
-          "mag": 7.69763348410215,
+          "id": "azyiyhxa",
+          "mag": 2.3763884090550813,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7118,15 +7118,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.406471128451848, 53.36085185506834]
+        "coordinates": [9.686942675966446, 53.631489469463254]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "svuuscrf",
-          "mag": 2.3291471200937086,
+          "id": "qwfavdzt",
+          "mag": 2.5386930498739293,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7134,15 +7134,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.149676614823719, 53.412682921139591]
+        "coordinates": [9.511297496039612, 53.826986321311139]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "vnmjujzt",
-          "mag": 8.358220243211347,
+          "id": "ijerrbdk",
+          "mag": 8.842277247954142,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7150,15 +7150,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.316166800793589, 53.396981844266264]
+        "coordinates": [9.64424612179948, 53.651976057243552]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uweaxjno",
-          "mag": 1.090449812015224,
+          "id": "apyqymcg",
+          "mag": 0.024189922704495048,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7166,15 +7166,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.145834749501059, 53.43707096584123]
+        "coordinates": [9.394050497620464, 53.698675127884961]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "iqhoipkj",
-          "mag": 9.624347887481754,
+          "id": "rknywfdi",
+          "mag": 4.526478672671256,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7182,15 +7182,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.43189134382815, 53.428135651434161]
+        "coordinates": [9.369167458840062, 53.839253207626633]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "iaecxmkz",
-          "mag": 6.510367746049431,
+          "id": "htnkqqkh",
+          "mag": 0.6709266268396519,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7198,15 +7198,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.514443033859386, 53.370381306634492]
+        "coordinates": [9.334249392250031, 53.887664492596457]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qeiogdib",
-          "mag": 6.54415648905169,
+          "id": "zclnfwzv",
+          "mag": 7.90657437828331,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7214,15 +7214,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.341536411087713, 53.40012027184882]
+        "coordinates": [9.416989810868706, 53.731921738910039]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qzfsssxi",
-          "mag": 2.427506310560561,
+          "id": "fuhyoaok",
+          "mag": 9.602409169396415,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7230,15 +7230,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.131037172203927, 53.435369682222181]
+        "coordinates": [9.567835167189623, 53.727337916840682]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "llwbxgxr",
-          "mag": 5.58357659586602,
+          "id": "yfewyyvx",
+          "mag": 4.000251084442985,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7246,15 +7246,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.230697935232676, 53.42502370014433]
+        "coordinates": [9.548602671732505, 53.765632873456518]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "mptmuhny",
-          "mag": 0.4038250159977186,
+          "id": "ecmeribc",
+          "mag": 6.1933471224577055,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7262,15 +7262,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.191035705389199, 53.450487819041086]
+        "coordinates": [9.4739352414897, 53.750661884360809]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "azsxgyeh",
-          "mag": 9.491884038818975,
+          "id": "owoaddiu",
+          "mag": 2.2992975523531523,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7278,15 +7278,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.376664687332969, 53.419486774126064]
+        "coordinates": [9.57935617867652, 53.669054883872803]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uzaktwzi",
-          "mag": 2.7256422082556933,
+          "id": "miqaetup",
+          "mag": 6.3443255924583415,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7294,15 +7294,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.137432106695645, 53.404108931136093]
+        "coordinates": [9.321102316384485, 53.881175886735363]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "heotxehd",
-          "mag": 0.6021379262878768,
+          "id": "uhaezzfw",
+          "mag": 0.5961886120416915,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7310,15 +7310,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.292006742833212, 53.378495589531369]
+        "coordinates": [9.268969524458599, 53.817472040251005]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yqebgbps",
-          "mag": 6.5675007984417,
+          "id": "spgtrzcq",
+          "mag": 8.07681763770627,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7326,15 +7326,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.260359168471199, 53.395667716331737]
+        "coordinates": [9.622638123641522, 53.592315062472544]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yhspxakv",
-          "mag": 3.2529147162938044,
+          "id": "vmjhsbmg",
+          "mag": 4.689110806869907,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7342,15 +7342,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.446368197669438, 53.364913121945584]
+        "coordinates": [9.264460349669669, 53.829466345840785]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "jwfjxliw",
-          "mag": 1.1165118412711328,
+          "id": "lokruznl",
+          "mag": 5.882574824538551,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7358,15 +7358,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.518973187282741, 53.368899122144775]
+        "coordinates": [9.469877593154909, 53.643062315803206]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "pxkrvmfs",
-          "mag": 0.3401682615605728,
+          "id": "pinvbygh",
+          "mag": 6.192552484825549,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7374,15 +7374,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.432399171029198, 53.364286132498705]
+        "coordinates": [9.40352616234517, 53.683413330834611]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "xgfryrzm",
-          "mag": 7.045880322831626,
+          "id": "mxplljsf",
+          "mag": 4.765207959516219,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7390,15 +7390,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.284955008095482, 53.404235654288009]
+        "coordinates": [9.449498497885267, 53.784038723305869]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wthmpoal",
-          "mag": 6.160599166114833,
+          "id": "zvfzduak",
+          "mag": 0.1390611575625189,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7406,15 +7406,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.251456417368287, 53.380190509169012]
+        "coordinates": [9.526343360138787, 53.800545115616963]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "dsnvjtcu",
-          "mag": 2.2406893829393093,
+          "id": "mqmasjnp",
+          "mag": 9.487623568853335,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7422,15 +7422,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.376009540174271, 53.360008286960962]
+        "coordinates": [9.597419730397263, 53.65972607078217]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "vydhxswp",
-          "mag": 3.9009948252741244,
+          "id": "oshrxbgv",
+          "mag": 7.328775666568137,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7438,15 +7438,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.112070879282406, 53.417695903452866]
+        "coordinates": [9.621167990280217, 53.694214934095086]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "fllzquxz",
-          "mag": 1.7709446603577683,
+          "id": "avnipqjd",
+          "mag": 0.6066227649351774,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7454,15 +7454,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.346005391121519, 53.402435549403542]
+        "coordinates": [9.408413733637317, 53.850065647013395]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yscfzzly",
-          "mag": 0.4034653611238459,
+          "id": "iviiqujo",
+          "mag": 0.4875551084163765,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7470,15 +7470,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.488372918300144, 53.393547626262517]
+        "coordinates": [9.53161419421845, 53.779425180379626]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "buxnfgqh",
-          "mag": 2.2370164840055606,
+          "id": "cctvxeid",
+          "mag": 2.3367519165617754,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7486,15 +7486,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.418863239221977, 53.403339434905185]
+        "coordinates": [9.445069284648168, 53.680004735107545]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "mjbeeyib",
-          "mag": 8.084510455646988,
+          "id": "pvnzqvmk",
+          "mag": 4.264857085578901,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7502,15 +7502,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.494029131809341, 53.389410592916285]
+        "coordinates": [9.285842866420229, 53.78892646521161]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "lncfxesz",
-          "mag": 8.301823120000378,
+          "id": "hzzoyhkw",
+          "mag": 9.814881917147249,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7518,15 +7518,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.321748471905213, 53.370616822391234]
+        "coordinates": [9.313800360522373, 53.788778444501403]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "lieekpcg",
-          "mag": 9.873005882431281,
+          "id": "fspqohan",
+          "mag": 4.573054780418245,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7534,15 +7534,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.321206559104281, 53.390725545045093]
+        "coordinates": [9.398495787665992, 53.790449573588113]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "igychyvk",
-          "mag": 9.07380847894679,
+          "id": "chaewcbo",
+          "mag": 1.8058982278509095,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7550,15 +7550,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.158939749326677, 53.395273984610093]
+        "coordinates": [9.374743234954636, 53.72123279082539]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ogmptgrm",
-          "mag": 5.6235475250473925,
+          "id": "khibpxtf",
+          "mag": 2.500265790350543,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7566,15 +7566,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.484111032345801, 53.41872389654575]
+        "coordinates": [9.340565809198086, 53.761225635870574]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wienalxf",
-          "mag": 1.4869308643886037,
+          "id": "gwdlkyaf",
+          "mag": 8.130133820834585,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7582,15 +7582,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.356389247417489, 53.382395268065707]
+        "coordinates": [9.573540635777299, 53.642925596292066]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "sagviizu",
-          "mag": 1.7962792625104418,
+          "id": "arnlygzd",
+          "mag": 3.007247126416112,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7598,15 +7598,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.252645519936411, 53.434292034125399]
+        "coordinates": [9.527294806145058, 53.692708878990103]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "whnadswr",
-          "mag": 1.2623302442195428,
+          "id": "oqprzyxm",
+          "mag": 7.886763263810318,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7614,15 +7614,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.47106244069613, 53.405245851965816]
+        "coordinates": [9.409229543346571, 53.73699384492155]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "sxpqyycq",
-          "mag": 6.82645924904786,
+          "id": "zqcunnfh",
+          "mag": 7.951689162402726,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7630,15 +7630,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.191958390916838, 53.404457295416108]
+        "coordinates": [9.602163498094239, 53.579190644834284]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kewswvxw",
-          "mag": 1.7690476409262357,
+          "id": "umyehrvk",
+          "mag": 3.197685646502171,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7646,15 +7646,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.519868131491187, 53.345536992013869]
+        "coordinates": [9.378127230041486, 53.72360683490772]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "knnghxqt",
-          "mag": 6.174648928492578,
+          "id": "yvpkxavm",
+          "mag": 0.9686038591947632,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7662,15 +7662,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.344279755431627, 53.404107362727942]
+        "coordinates": [9.258730606741841, 53.823514522045215]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wrwxlutd",
-          "mag": 5.203825427685897,
+          "id": "zbgqfyxk",
+          "mag": 7.865998937380488,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7678,15 +7678,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.479417377707753, 53.395296331571203]
+        "coordinates": [9.502471352471678, 53.760755379125079]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qbfipzks",
-          "mag": 8.55164390771891,
+          "id": "mnmyxkgy",
+          "mag": 7.2303224945233495,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7694,15 +7694,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.254444303231391, 53.403795058688267]
+        "coordinates": [9.537728021932972, 53.654772279488753]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "epgayrlx",
-          "mag": 3.5778637143552383,
+          "id": "nzkfgldi",
+          "mag": 8.429551682221504,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7710,15 +7710,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.322792322556683, 53.403221593206801]
+        "coordinates": [9.481908423531797, 53.842182852468383]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gpiqwuai",
-          "mag": 7.537624584359489,
+          "id": "gnownpmx",
+          "mag": 4.081407079715786,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7726,15 +7726,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.455407080341667, 53.383676594799915]
+        "coordinates": [9.396098652469194, 53.850500908088783]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wziyzrid",
-          "mag": 0.8269286939578813,
+          "id": "tikarbbk",
+          "mag": 3.401418597349256,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7742,15 +7742,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.35050356485284, 53.429834888059332]
+        "coordinates": [9.532910038434137, 53.635306960116267]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "aiikiyph",
-          "mag": 6.174108054763168,
+          "id": "uycmycms",
+          "mag": 7.8857004990813175,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7758,15 +7758,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.506046520736973, 53.400627695621317]
+        "coordinates": [9.288382332150219, 53.832070284340922]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "xzrzwcwr",
-          "mag": 9.458785975012194,
+          "id": "cfayyvzw",
+          "mag": 0.0935611006785797,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7774,15 +7774,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.178326346764555, 53.435221346386264]
+        "coordinates": [9.333355674411928, 53.802186022901083]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "xpxkfnij",
-          "mag": 4.183563120036742,
+          "id": "bnoqnnvl",
+          "mag": 7.634272858880349,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7790,15 +7790,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.364345913361626, 53.413545860067835]
+        "coordinates": [9.385983826132808, 53.763896706340049]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "bixptfjo",
-          "mag": 3.467516568229636,
+          "id": "wplkxjis",
+          "mag": 1.881219262006062,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7806,15 +7806,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.255758127270219, 53.398099039798367]
+        "coordinates": [9.731544266875249, 53.567240876347725]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "benfnwyk",
-          "mag": 1.9151588743197623,
+          "id": "fagptniy",
+          "mag": 8.635110605160905,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7822,15 +7822,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.091457833124764, 53.442153706792816]
+        "coordinates": [9.515346481319108, 53.805989562204928]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "beuqhygi",
-          "mag": 0.983974727515976,
+          "id": "abemjzje",
+          "mag": 3.307569468963165,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7838,15 +7838,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.233882672303507, 53.38027274359446]
+        "coordinates": [9.429264326053273, 53.775198660702983]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wkidzjve",
-          "mag": 6.392438776026675,
+          "id": "zxwbcgtm",
+          "mag": 8.47012279946409,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7854,15 +7854,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.278312878062962, 53.379937285056471]
+        "coordinates": [9.48851513329612, 53.813799795685426]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ggbcbbqc",
-          "mag": 6.522260365568474,
+          "id": "imboepnv",
+          "mag": 8.065769082252348,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7870,15 +7870,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.270137838805399, 53.385106315261218]
+        "coordinates": [9.711339110222998, 53.581513062992329]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gevbphou",
-          "mag": 4.687687992466204,
+          "id": "izahrsko",
+          "mag": 3.0944461891904904,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7886,15 +7886,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.482817852229267, 53.422972070954046]
+        "coordinates": [9.492851300963279, 53.715364599422713]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kdhfbwuf",
-          "mag": 6.051939257193812,
+          "id": "nwobuvdi",
+          "mag": 0.8282212803900146,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7902,15 +7902,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.465519014917056, 53.434115489148951]
+        "coordinates": [9.409662154933519, 53.940674576801328]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yivykcqd",
-          "mag": 9.123639789332987,
+          "id": "eugjsvgb",
+          "mag": 4.112221585355695,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7918,15 +7918,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.304337169291042, 53.413573292382878]
+        "coordinates": [9.629381178178305, 53.681301248841827]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uvgoartr",
-          "mag": 0.9315894615848264,
+          "id": "slwuwwzp",
+          "mag": 4.253991274302214,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7934,15 +7934,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.131411676145108, 53.418010448121763]
+        "coordinates": [9.188416462600699, 53.805521532850534]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "lhjvlbbe",
-          "mag": 7.061926440942221,
+          "id": "wtjmfsyj",
+          "mag": 7.5476549478590655,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7950,15 +7950,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.233155065246889, 53.417788574931798]
+        "coordinates": [9.661573652016898, 53.545284040072723]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "vganpntr",
-          "mag": 2.664722786871754,
+          "id": "yxxdefit",
+          "mag": 2.4227937267528232,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7966,15 +7966,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.322554998545277, 53.432063716348189]
+        "coordinates": [9.252823462626981, 53.804923479347494]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "sziajkok",
-          "mag": 0.05896237874795651,
+          "id": "asnnltbh",
+          "mag": 0.0026268928817363424,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7982,15 +7982,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.531356971218912, 53.374952735880633]
+        "coordinates": [9.406233870916468, 53.859301486797371]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "oysyguki",
-          "mag": 8.983787319945499,
+          "id": "nzfmrgxc",
+          "mag": 8.70870756662859,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -7998,15 +7998,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.13044232033563, 53.397229719415336]
+        "coordinates": [9.678961058648065, 53.592477701110631]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "rvtzejte",
-          "mag": 4.052026852637741,
+          "id": "fwpxtqwi",
+          "mag": 8.37311266221068,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8014,15 +8014,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.268090249780881, 53.427245841650702]
+        "coordinates": [9.474509085283168, 53.759448153430391]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "pfsexude",
-          "mag": 5.837774859958258,
+          "id": "mkcmfils",
+          "mag": 4.710204359762135,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8030,15 +8030,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.107036593905207, 53.43177293877504]
+        "coordinates": [9.339290932043767, 53.916780407991183]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "nmqhvghf",
-          "mag": 4.545014382594893,
+          "id": "fklquoes",
+          "mag": 3.3964857145827674,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8046,15 +8046,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.233709209599663, 53.444240818678026]
+        "coordinates": [9.621988470670111, 53.564375004331964]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "lezycddi",
-          "mag": 1.7865901541984763,
+          "id": "kcfxnbdo",
+          "mag": 9.166872907181101,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8062,15 +8062,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.1890390745994, 53.415246310771266]
+        "coordinates": [9.376050811046209, 53.703865368219049]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "rayljdql",
-          "mag": 5.51238109225435,
+          "id": "szwhzwfm",
+          "mag": 4.084136982782397,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8078,15 +8078,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.082614704268398, 53.424818799047486]
+        "coordinates": [9.361586767992243, 53.718317190119819]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "acblujhb",
-          "mag": 9.50989218645759,
+          "id": "zegcmyxs",
+          "mag": 2.4607116427579068,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8094,15 +8094,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.271289376677853, 53.419255866912636]
+        "coordinates": [9.658010164869841, 53.666871262660905]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yhtwqqnb",
-          "mag": 1.203906530693588,
+          "id": "fyxqbdbh",
+          "mag": 2.1623398598715804,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8110,15 +8110,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.266194219105175, 53.400580951209662]
+        "coordinates": [9.506889149045644, 53.734069620657081]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ptmzantn",
-          "mag": 5.8851687825332775,
+          "id": "nttlzkpj",
+          "mag": 0.21436488868710524,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8126,15 +8126,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.390963266185432, 53.378905132881307]
+        "coordinates": [9.635741913943953, 53.556530250201696]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "vuppnwqb",
-          "mag": 1.3387420447671883,
+          "id": "jfdrwlld",
+          "mag": 3.842007152457821,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8142,15 +8142,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.517597044585157, 53.347675687732526]
+        "coordinates": [9.419992055440773, 53.805335840616607]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wvvjrxhg",
-          "mag": 3.329103456619078,
+          "id": "hitkoutz",
+          "mag": 2.984897418587804,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8158,15 +8158,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.122282555121147, 53.448395433619581]
+        "coordinates": [9.617941645990822, 53.591450536127674]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "bvvotwxn",
-          "mag": 0.7715738804631989,
+          "id": "zmhewumo",
+          "mag": 0.9142516179579596,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8174,15 +8174,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.262413466810182, 53.376098918773202]
+        "coordinates": [9.304875871357867, 53.786949189781801]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qjfxskjv",
-          "mag": 8.79312313985785,
+          "id": "tsburjsz",
+          "mag": 0.894173102914898,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8190,15 +8190,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.240001522969697, 53.418954032995103]
+        "coordinates": [9.565087945991824, 53.770813697592288]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "cekuftft",
-          "mag": 0.29904494761385125,
+          "id": "pqpsdtdx",
+          "mag": 7.802766108282798,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8206,15 +8206,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.457269350231524, 53.418789699431748]
+        "coordinates": [9.353266644449608, 53.708618793878905]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "zcuvawcj",
-          "mag": 9.274061922026814,
+          "id": "keemummb",
+          "mag": 0.5642563150346736,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8222,15 +8222,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.179517168183501, 53.448313757663172]
+        "coordinates": [9.202022721053586, 53.868851401370257]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uhnmptgz",
-          "mag": 2.3232279954075485,
+          "id": "iblhblja",
+          "mag": 8.063742880398095,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8238,15 +8238,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.496691857980721, 53.397205033326436]
+        "coordinates": [9.397039135024437, 53.845224918471928]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "etbcnrnn",
-          "mag": 6.198173486675257,
+          "id": "vnkpjgkp",
+          "mag": 1.5404108806616656,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8254,15 +8254,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.200164116540547, 53.381739966286318]
+        "coordinates": [9.309310142533551, 53.72339169486655]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kpvkklxr",
-          "mag": 8.094496830165651,
+          "id": "stwacsal",
+          "mag": 3.5946257141475124,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8270,15 +8270,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.175480683106805, 53.419424062395038]
+        "coordinates": [9.2178027707607, 53.787077703577602]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "czdzyxda",
-          "mag": 3.1375338277371787,
+          "id": "wmvcmxvi",
+          "mag": 7.903951131125599,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8286,15 +8286,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.102362520296431, 53.393351560235317]
+        "coordinates": [9.523450431232071, 53.737168151220047]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "haungktn",
-          "mag": 9.909648166013561,
+          "id": "ccqzhood",
+          "mag": 9.743494295038827,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8302,15 +8302,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.244905441156806, 53.393924233581984]
+        "coordinates": [9.345760100889331, 53.835251609721823]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "iperbrhq",
-          "mag": 6.6111546736601,
+          "id": "xivwqqpw",
+          "mag": 0.9900341751280073,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8318,15 +8318,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.237131242483283, 53.395099515634264]
+        "coordinates": [9.634022194186175, 53.686065678983454]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "xplmwohj",
-          "mag": 4.620436930532835,
+          "id": "jlcqaics",
+          "mag": 9.388687981894572,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8334,15 +8334,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.52833454524294, 53.360302992235646]
+        "coordinates": [9.458998694921645, 53.686302892750383]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "dfwxlhdd",
-          "mag": 8.684435323671376,
+          "id": "tywctxji",
+          "mag": 1.6818588656712197,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8350,15 +8350,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.346064433308108, 53.379401575642241]
+        "coordinates": [9.347680060038746, 53.721942197924953]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "dpkfkyrb",
-          "mag": 8.968916792874612,
+          "id": "gstaqxkc",
+          "mag": 3.6605351866646165,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8366,15 +8366,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.066970246480714, 53.451559052103505]
+        "coordinates": [9.486232302413013, 53.758764943229316]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "fehglnqf",
-          "mag": 6.270806581471069,
+          "id": "kteziyht",
+          "mag": 4.562219223517888,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8382,15 +8382,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.172387814112147, 53.416182329056312]
+        "coordinates": [9.564516000254416, 53.605611670329175]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wfjnngat",
-          "mag": 3.5158602134615693,
+          "id": "gvcysytf",
+          "mag": 9.800527717735562,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8398,15 +8398,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.450152499938659, 53.429872676079945]
+        "coordinates": [9.613726073215872, 53.6923290906999]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "nowlinnm",
-          "mag": 7.140582726920548,
+          "id": "dwcmrjov",
+          "mag": 6.863386885823944,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8414,15 +8414,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.442312603065906, 53.412666028405972]
+        "coordinates": [9.424654195466005, 53.653670908564479]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "jmvseudr",
-          "mag": 4.941171958379295,
+          "id": "vqbcrerl",
+          "mag": 5.5986604780226426,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8430,15 +8430,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.175040183488997, 53.424468287710511]
+        "coordinates": [9.597172684275764, 53.684300896026166]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "eutdpzee",
-          "mag": 1.2226556412713396,
+          "id": "vlqejltj",
+          "mag": 5.372526871313095,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8446,15 +8446,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.482358611324788, 53.393829103036083]
+        "coordinates": [9.549131040543124, 53.76845330499404]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "reyfoceg",
-          "mag": 8.137657925222978,
+          "id": "ifgnelbg",
+          "mag": 4.665226220647388,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8462,15 +8462,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.490669375174692, 53.41990543797661]
+        "coordinates": [9.447189980657146, 53.7172075208858]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wduvyhud",
-          "mag": 8.455391890692125,
+          "id": "yontkxwv",
+          "mag": 5.021553888307315,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8478,15 +8478,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.511359882318507, 53.398591622769416]
+        "coordinates": [9.563233088507873, 53.576178656808175]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "mdrkcshe",
-          "mag": 1.5324252193744836,
+          "id": "seicbwnu",
+          "mag": 4.247381913540689,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8494,15 +8494,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.440445803621744, 53.366779942529739]
+        "coordinates": [9.585601438491906, 53.740451694631268]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gooteghm",
-          "mag": 6.752348425661266,
+          "id": "vjueczrr",
+          "mag": 9.765272882333987,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8510,15 +8510,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.567452315364099, 53.42492454814785]
+        "coordinates": [9.540953751373658, 53.792555299634422]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "qdpnstzc",
-          "mag": 4.765037035367152,
+          "id": "bcmqxpum",
+          "mag": 0.7767282971654743,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8526,15 +8526,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.54129670445873, 53.400836279610601]
+        "coordinates": [9.448614991552047, 53.88819500860405]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hhsdzzxm",
-          "mag": 8.583212620975544,
+          "id": "ylwhjuya",
+          "mag": 0.2580753753944154,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8542,15 +8542,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.433469568288571, 53.403766323329947]
+        "coordinates": [9.434126250201043, 53.731403964684475]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "sgjwnbvj",
-          "mag": 3.3061501066992083,
+          "id": "qzbxrkfx",
+          "mag": 1.974088510523485,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8558,15 +8558,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.408229662654263, 53.41689255619486]
+        "coordinates": [9.202925509807228, 53.852844282118035]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "izqlekcv",
-          "mag": 0.09178530032909249,
+          "id": "nhohqtqb",
+          "mag": 9.083516401483967,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8574,15 +8574,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.157533480913983, 53.406169264876119]
+        "coordinates": [9.615345635311851, 53.662268528771605]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "rskgldax",
-          "mag": 6.222766351074499,
+          "id": "wjpvulpn",
+          "mag": 5.496470215463179,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8590,15 +8590,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.455714291394781, 53.419344920691351]
+        "coordinates": [9.31015845121844, 53.731609172089954]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ctolzbfs",
-          "mag": 6.625408450802462,
+          "id": "lzhcrivk",
+          "mag": 5.737432263510787,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8606,15 +8606,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.107202447141635, 53.427701689339855]
+        "coordinates": [9.520008542184293, 53.630602928211545]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kqilprai",
-          "mag": 1.1732992741257453,
+          "id": "sraxhcyd",
+          "mag": 6.423545270651211,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8622,15 +8622,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.471369530320406, 53.35363307167728]
+        "coordinates": [9.468133033330695, 53.703651782720627]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "kvdzcauc",
-          "mag": 8.535210570941672,
+          "id": "srjlsrmn",
+          "mag": 1.656985651154227,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8638,15 +8638,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.297850139521898, 53.393272701397976]
+        "coordinates": [9.546019252226108, 53.731410435332009]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "tbvvhybd",
-          "mag": 4.42527839928553,
+          "id": "lybfzjfv",
+          "mag": 0.2320843640112269,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8654,15 +8654,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.313935489031078, 53.44313450859822]
+        "coordinates": [9.673048967738078, 53.564146068636546]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ekomndhy",
-          "mag": 7.519623187030562,
+          "id": "xksoejwf",
+          "mag": 1.2753257288439224,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8670,15 +8670,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.302950220382177, 53.4045910319632]
+        "coordinates": [9.429945505922792, 53.806045405458221]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "bjcxjjzm",
-          "mag": 9.057938732795508,
+          "id": "pnrgwbwm",
+          "mag": 5.744771537718554,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8686,15 +8686,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.37785406460697, 53.393453706337503]
+        "coordinates": [9.537134827112581, 53.659634950887472]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uvjetrfo",
-          "mag": 2.262935497580516,
+          "id": "uzoqcrtv",
+          "mag": 4.686552022540096,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8702,15 +8702,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.232797760072431, 53.424364278212195]
+        "coordinates": [9.508423677896754, 53.649573876636502]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uziykhpj",
-          "mag": 5.514447354894317,
+          "id": "osuonxnz",
+          "mag": 6.774516186605202,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8718,15 +8718,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.322527127519603, 53.373070780344293]
+        "coordinates": [9.489767281321711, 53.659937695542425]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "zmapvtvh",
-          "mag": 4.693320884980249,
+          "id": "luvxqkwz",
+          "mag": 7.133025667988448,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8734,15 +8734,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.341126670275798, 53.439017377221475]
+        "coordinates": [9.350754500631506, 53.875171888407316]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "dveaitum",
-          "mag": 1.6131167574589067,
+          "id": "wwfrymhs",
+          "mag": 7.522599598492405,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8750,15 +8750,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.416065903761172, 53.436374479826604]
+        "coordinates": [9.295337885539814, 53.735966337371678]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ijuzqfum",
-          "mag": 4.720736721214454,
+          "id": "iyouocoy",
+          "mag": 5.039417585693511,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8766,15 +8766,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.288439231188493, 53.431928212596191]
+        "coordinates": [9.523505064345727, 53.700731116316604]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "lrvqkoav",
-          "mag": 3.6572552784745502,
+          "id": "xnjdsocx",
+          "mag": 0.14241546212078182,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8782,15 +8782,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.476817239231522, 53.371037018328039]
+        "coordinates": [9.487259996291403, 53.734445235881019]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "fmdphxya",
-          "mag": 7.048262090448713,
+          "id": "okxiqnur",
+          "mag": 2.8141123237134025,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8798,15 +8798,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.560013388944974, 53.386261040438612]
+        "coordinates": [9.245626321533955, 53.903167048216147]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wzcesyag",
-          "mag": 1.5689242321636943,
+          "id": "rxciokvl",
+          "mag": 6.656238815348687,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8814,15 +8814,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.122478347672095, 53.439058394356152]
+        "coordinates": [9.667912167467033, 53.63512917272557]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ugyfnvuz",
-          "mag": 5.049513788150212,
+          "id": "avbfksgd",
+          "mag": 0.3808109757745859,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8830,15 +8830,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.150276403092844, 53.390308885337816]
+        "coordinates": [9.587222255397359, 53.575859435661677]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "dtsgufcm",
-          "mag": 2.9102022804400973,
+          "id": "jphrabbo",
+          "mag": 9.777679988371661,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8846,15 +8846,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.28004075058565, 53.417858823305259]
+        "coordinates": [9.448304106575096, 53.728406048160672]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "cjeqerzr",
-          "mag": 4.011372418680398,
+          "id": "dwhqrpzr",
+          "mag": 8.543605603575951,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8862,15 +8862,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.177212986472611, 53.425739299216737]
+        "coordinates": [9.360906332008403, 53.92019985104001]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "ezwiyygv",
-          "mag": 6.549853269327517,
+          "id": "gkjhjdih",
+          "mag": 9.724447169895075,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8878,15 +8878,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.2208547602108, 53.438490363050526]
+        "coordinates": [9.209966553881429, 53.842180198482332]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "uiuhwdel",
-          "mag": 3.130588829321641,
+          "id": "qvuynqas",
+          "mag": 8.776082734532537,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8894,15 +8894,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.196312755136269, 53.44530019292705]
+        "coordinates": [9.651635997222138, 53.585145838803051]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "txlolitt",
-          "mag": 0.5537620844723057,
+          "id": "mbysabcy",
+          "mag": 8.103948597421013,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8910,15 +8910,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.249937297632799, 53.418996592246835]
+        "coordinates": [9.387405008291205, 53.761338498476761]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "hsaurtre",
-          "mag": 7.070943700765449,
+          "id": "isdkuebw",
+          "mag": 1.4296871555253987,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8926,15 +8926,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.122819300240304, 53.391278457620665]
+        "coordinates": [9.400712760087206, 53.869219333527973]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "erffdpbw",
-          "mag": 6.967058023186967,
+          "id": "igazcthb",
+          "mag": 4.181688930000412,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8942,15 +8942,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.149583673681894, 53.421266791219878]
+        "coordinates": [9.602267563309031, 53.707226318866411]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "nnysafaj",
-          "mag": 8.082156127260857,
+          "id": "iubxegjw",
+          "mag": 9.941283374131197,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8958,15 +8958,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.32479738298189, 53.431636245914532]
+        "coordinates": [9.402999020158163, 53.742275837145058]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "nsiknmwy",
-          "mag": 9.46302497525244,
+          "id": "fqmuexcf",
+          "mag": 1.3927158566918174,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8974,15 +8974,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.260409205501498, 53.39445449233866]
+        "coordinates": [9.676236004307937, 53.592828131714455]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "mhglwfzh",
-          "mag": 9.053024091763465,
+          "id": "devaffza",
+          "mag": 7.291784157072212,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -8990,15 +8990,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.446668521532889, 53.434729166128179]
+        "coordinates": [9.58783549778404, 53.587015253342933]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "bgjeazhf",
-          "mag": 0.12244158319998033,
+          "id": "hhstzfor",
+          "mag": 8.536821967718492,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9006,15 +9006,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.19175375133349, 53.424994561852436]
+        "coordinates": [9.656835125449824, 53.622302320898051]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "gkeltpyw",
-          "mag": 3.2398163625588907,
+          "id": "pxellynu",
+          "mag": 6.078198409426739,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9022,15 +9022,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.349538058302723, 53.405989115469424]
+        "coordinates": [9.500610421954025, 53.838519834333809]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "cmxhmdqg",
-          "mag": 3.4826131738224344,
+          "id": "ghrtfqca",
+          "mag": 0.23312234041830582,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9038,15 +9038,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.361037954229626, 53.406054936985406]
+        "coordinates": [9.198693656076449, 53.817702371836319]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "flyoowdl",
-          "mag": 6.154232540807327,
+          "id": "uequwgax",
+          "mag": 6.799726187030821,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9054,15 +9054,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.274640897612862, 53.438004197189279]
+        "coordinates": [9.268476645542284, 53.840714081764375]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "bjguavbh",
-          "mag": 3.147134142887377,
+          "id": "bylsqjkd",
+          "mag": 1.3545695085239773,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9070,15 +9070,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.214506742645623, 53.379956357748341]
+        "coordinates": [9.61434941958022, 53.60150590556195]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "dgizmlej",
-          "mag": 7.199172131162594,
+          "id": "mwkpwrag",
+          "mag": 6.355939905866357,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9086,15 +9086,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.353632460332966, 53.38353790830957]
+        "coordinates": [9.465148057046116, 53.802190496563178]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "lmeotwun",
-          "mag": 7.7375133700208085,
+          "id": "hdybgrhf",
+          "mag": 6.007706646455095,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9102,15 +9102,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.397666789170136, 53.431899508892485]
+        "coordinates": [9.469170520778528, 53.817955762256034]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "jtuetlru",
-          "mag": 3.05691390571499,
+          "id": "axmyqncp",
+          "mag": 3.6124352987430584,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9118,15 +9118,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.373570827863503, 53.413902522412997]
+        "coordinates": [9.368514180261249, 53.770785438758864]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "wnrbmsmb",
-          "mag": 1.519889869343477,
+          "id": "orwovlph",
+          "mag": 1.770800576459547,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9134,15 +9134,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.474184540323504, 53.371284926574297]
+        "coordinates": [9.384417580130046, 53.815164170494505]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "tzgibafm",
-          "mag": 3.7543263491186742,
+          "id": "jwalysmc",
+          "mag": 3.4817890924243136,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9150,15 +9150,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.273419540564765, 53.38928987266101]
+        "coordinates": [9.453442975709777, 53.703793923864787]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "yitcheua",
-          "mag": 6.950379282748073,
+          "id": "uizpewrr",
+          "mag": 6.983485545963726,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9166,15 +9166,15 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.240435217722485, 53.439834945529888]
+        "coordinates": [9.679395113520355, 53.563602515088093]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "properties": {
-          "id": "mkjdzbtb",
-          "mag": 1.8678505062205153,
+          "id": "ekjepbfx",
+          "mag": 7.403016998026313,
           "time": 1507132718170,
           "felt": 28,
           "tsunami": 0
@@ -9182,1239 +9182,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.371337650503317, 53.423622074184422]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "dqgrresr",
-          "mag": 7.21555947009038,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.152606527930864, 53.413608461697912]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "jjuftirl",
-          "mag": 0.05277751653971374,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.470308169195757, 53.418558961500629]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "usefhfrs",
-          "mag": 8.17921309711345,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.076719539840118, 53.453864766819329]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "vikcngzp",
-          "mag": 8.336607222006752,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.349491549416841, 53.402716878787288]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "ggecpvzg",
-          "mag": 5.74884362479576,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.433106156236553, 53.416901797321266]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "ztwmtwbi",
-          "mag": 3.3356981111809136,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.316215650295026, 53.377769090414738]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "crdnibtf",
-          "mag": 1.6136365511008388,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.207016695659831, 53.400957589146401]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "muczvqfa",
-          "mag": 9.233092515829602,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.544577566960246, 53.414216335052387]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "gnctjcbh",
-          "mag": 4.587088921419556,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.168656191297732, 53.441532602842145]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "jgwuevgo",
-          "mag": 6.643947369179278,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.433744462236476, 53.395602966212856]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "fuwzcwbi",
-          "mag": 4.863918056578051,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.240608784627536, 53.42558538772078]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "yacuilbe",
-          "mag": 7.971592691771924,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.220970450510793, 53.432223051763941]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "jjykqfsl",
-          "mag": 2.9004868988968746,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.466284100700468, 53.372577331387795]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "pzanipth",
-          "mag": 7.690202401140487,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.491454596576618, 53.419305442058018]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "vzewsrjt",
-          "mag": 4.373100053359486,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.357510878530702, 53.381829884537851]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "xcvmqugm",
-          "mag": 3.323224186959429,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.397000552251438, 53.382781910419482]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "dlwlkvkr",
-          "mag": 4.444776730133492,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.373600711221144, 53.42279555807432]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "qrywohxj",
-          "mag": 4.313979412370187,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.489465528151152, 53.354834691001351]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "hqmsaolb",
-          "mag": 1.3463744842821246,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.463988647101456, 53.43156090912376]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "ntbbpkiw",
-          "mag": 5.189304475651575,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.393759485934741, 53.383177886026935]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "hubicwzw",
-          "mag": 7.254567263835543,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.166217857122623, 53.446138298053413]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "vextlkpd",
-          "mag": 0.777066401208435,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.397269793652665, 53.414573017941677]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "tkranadk",
-          "mag": 4.459777718555618,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.385425369292872, 53.411982255871379]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "cjiqizel",
-          "mag": 6.514083852649052,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.107306584494603, 53.440268231196363]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "iyyiyrhj",
-          "mag": 1.8999858495690458,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.451334051263956, 53.35146062043502]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "ctaxnkmt",
-          "mag": 1.1465425074207247,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.205077073949873, 53.389176935763182]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "ajsxkfzn",
-          "mag": 6.616130428905075,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.18801568573847, 53.433298475945982]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "hduerhqf",
-          "mag": 9.646583443775036,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.313774348365799, 53.420858563646355]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "cdtasezx",
-          "mag": 0.32031302918558713,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.391982627825715, 53.429059229712898]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "zcfgdkra",
-          "mag": 0.020882190801283507,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.508526723623431, 53.402422795903796]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "eoarzymr",
-          "mag": 0.21652313486571484,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.388829186804422, 53.371000137905895]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "zyqovnin",
-          "mag": 5.505700429273443,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.079702287475682, 53.42171292885488]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "trqxwhqp",
-          "mag": 1.8017228527385398,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.085012415199664, 53.42833218478016]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "udlninug",
-          "mag": 9.488312427519967,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.482261134755616, 53.375573328911493]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "oeiqrgek",
-          "mag": 1.1204569230495065,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.15123683173759, 53.454982523578771]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "fcqczzsa",
-          "mag": 4.960846262052624,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.155444694701908, 53.412464316184192]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "wzljeqoi",
-          "mag": 9.684283235876181,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.434304964981948, 53.407386979130088]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "paikvaxw",
-          "mag": 3.416372750778822,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.313974281479496, 53.415785266737949]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "qicuaouk",
-          "mag": 1.7651186976405686,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.274629195931286, 53.430860142258105]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "acfabkgd",
-          "mag": 8.060997868287712,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.32501847513277, 53.398939209680208]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "kvbohfdy",
-          "mag": 1.4234322788884834,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.429465349931014, 53.394649619405918]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "ejqxeqwx",
-          "mag": 4.842777391237016,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.302164340041827, 53.426084736765006]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "gvcctndg",
-          "mag": 5.796185700007232,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.080019150718499, 53.43502044597998]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "lxzncjmv",
-          "mag": 1.7472070076093582,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.376923842495, 53.404451896896504]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "terugmlg",
-          "mag": 8.963344800442334,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.321089562876708, 53.398901461987926]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "kvmgfkqv",
-          "mag": 4.870779555282806,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.485380447904568, 53.376055182620959]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "skoscvyl",
-          "mag": 1.367252997715681,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.20650866185162, 53.423989136790098]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "bsmrwawd",
-          "mag": 5.922961562245172,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.333749225505736, 53.422361889278768]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "gsrvahxl",
-          "mag": 3.7050500050736126,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.383878641726666, 53.408377897192032]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "grwcihyd",
-          "mag": 8.21403250250562,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.327876892755443, 53.435997905209945]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "mmbkfbov",
-          "mag": 1.0963003935267268,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.513826367720137, 53.415658476409426]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "esdaousz",
-          "mag": 7.176654420514396,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.322746368047186, 53.408532729149869]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "uwesfexn",
-          "mag": 1.2554370195368203,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.149996726820877, 53.445004026828855]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "kwpjaggu",
-          "mag": 7.669143558143054,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.400721961595121, 53.357437948308089]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "nyquwbkh",
-          "mag": 7.63458273422037,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.477223031710107, 53.370239895038857]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "mgliexbu",
-          "mag": 6.559561226823554,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.276204518099444, 53.383014393506421]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "qenzehsi",
-          "mag": 1.1324077912754638,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.103063997623511, 53.432310401403051]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "xgaxzror",
-          "mag": 5.843883267806527,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.487923159881831, 53.410952560245882]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "wvivaxuk",
-          "mag": 3.3933487287982214,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.10099104841281, 53.406223011593774]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "vrvwsaod",
-          "mag": 4.768916238170094,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.160608046051117, 53.443582635936806]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "qabdgfbw",
-          "mag": 5.419086640829736,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.143585496461826, 53.387857476316974]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "izqxvsfg",
-          "mag": 4.672059786301656,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.522871654102948, 53.375557820264888]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "yyzsluvm",
-          "mag": 6.428468226933588,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.273444464206218, 53.391722093099915]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "wcotdjlv",
-          "mag": 1.7541602385688226,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.373528230812406, 53.36205043366224]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "yccxnqrb",
-          "mag": 3.9370370198214664,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.291493181084689, 53.387686422110527]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "dgkabxqo",
-          "mag": 5.53829690171067,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.261550474062842, 53.440608801627086]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "hhkavsdu",
-          "mag": 2.3322142736199436,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.176407083748547, 53.38474212309707]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "zpepxvhh",
-          "mag": 0.8581640417762693,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.564742179162669, 53.407105991024224]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "xulnvcoa",
-          "mag": 0.3642638933468789,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.477980570971265, 53.385607006132915]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "ccxjjcgc",
-          "mag": 9.984611073271608,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.251379132134629, 53.424249894868581]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "gaklrjgo",
-          "mag": 4.147909337606077,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.435464984950174, 53.404623148168461]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "fhgwtvxp",
-          "mag": 5.177424100379691,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.3157499874581, 53.436082535323855]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "aoddkkxw",
-          "mag": 8.321771590879397,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.464798944910653, 53.411942501172987]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "lgrungix",
-          "mag": 9.71161246206718,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.318230373556535, 53.397364079768153]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "drbnygeg",
-          "mag": 2.0879481553623203,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.161726297682453, 53.430483308080262]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "pykiqpsm",
-          "mag": 8.570210171920163,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.473108601498851, 53.428003251385825]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "properties": {
-          "id": "gvbmejwa",
-          "mag": 7.840180126958174,
-          "time": 1507132718170,
-          "felt": 28,
-          "tsunami": 0
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.506890416983024, 53.415530937079858]
+        "coordinates": [9.181868691773035, 53.850519549421385]
       }
     }
   ]
